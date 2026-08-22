@@ -19,7 +19,7 @@ import Skeleton from "../components/ui/Skeleton";
 import { ErrorState } from "../components/ui/Stateviews";
 import MortgageCalculator from "../components/listings/MortgageCalculator";
 import ListingsMap from "../components/listings/ListingsMap";
-import ContactAgentModal from "../components/listings/ContactAgentModal";
+import ContactAgentModal from "../components/listings/Contactagentmodal";
 
 import { useGetListingQuery } from "../services/api";
 import { toggleFavorite, selectIsFavorite } from "../app/favoritesSlice";
