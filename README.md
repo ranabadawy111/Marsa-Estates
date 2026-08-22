@@ -2,7 +2,9 @@
 
 A property rental & sale listings site, built as a portfolio piece to demonstrate multi-field filtering, client-side favorites with plain Redux Toolkit, and a distinct visual identity that doesn't depend on stock photography.
 
-**[Live demo →](#)** _(add your Vercel/Netlify link here after deploying)_
+## 🚀 Live Demo
+
+[Live demo →](https://marsa-estates.vercel.app)
 
 ## What it does
 
